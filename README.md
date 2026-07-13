@@ -182,7 +182,7 @@ Harness the power of io.net’s decentralized network through IO Cloud, your gat
 
 ### Projects
 
-- **Solana AI Agent Trust Scoring**: [TWZRD Agent Intel](https://intel.twzrd.xyz) — MCP server for trust-scoring Solana agent wallets before x402 USDC micropayments. Free: `score_agent`, `preflight_check`. Paid: `get_trust_receipt` (signed Ed25519 receipt).
+- **Solana AI Agent Trust Scoring**: [TWZRD Agent Intel](https://intel.twzrd.xyz) — MCP server for trust-scoring Solana agent wallets before x402 USDC micropayments. Free: `score_wallet_for_intel`, `get_readiness_card_tool`. Paid: `GET /v1/intel/trust/{pubkey}` (signed Ed25519 receipt).
 - **AI Influencers**: [lunaonTikTok](https://app.virtuals.io/virtuals/68)
 - **Autonomous VC Agents#1**: [ai16z](https://ai16z.github.io/eliza/)
 - **Autonomous VC Agents#2**: [Sekoia](https://sekoia.vc)
